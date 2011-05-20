@@ -7,6 +7,7 @@
 "    Copyright: Copyright (C) 2002 & 2003 Bindu Wavell 
 "    		    Copyright (C) 2010 Oliver Uvman
 "    		    Copyright (C) 2010 & 2011 Federico Holgado
+"    		    Copyright (C) 2011 John Anderson 
 "               Permission is hereby granted to use and distribute this code,
 "               with or without modifications, provided that this copyright
 "               notice is copied with it. Like anything else that's free,
@@ -17,12 +18,11 @@
 "
 " Name Of File: minibufexpl.vim
 "  Description: Mini Buffer Explorer Vim Plugin
-"   Maintainer: Federico Holgado <fholgado@gmail.com>
-" Last Updated: Federico Holgado <fholgado@gmail.com>
-"          URL: http://vim.sourceforge.net/scripts/script.php?script_id=159
-"   GitHub URL: https://github.com/fholgado/minibufexpl.vim
-"  Last Change: Saturday, January 1, 2011
-"      Version: 6.4.0
+"   Maintainer: John Anderson <sontek@gmail.com> 
+" Last Updated: John Anderson <sontek@gmail.com> 
+"   GitHub URL: https://github.com/sontek/minibufexpl.vim 
+"  Last Change: Thursday, May 19, 2011
+"      Version: 6.5.0
 "               Derived from Jeff Lanzarotta's bufexplorer.vim version 6.0.7
 "               Jeff can be reached at (jefflanzarotta@yahoo.com) and the
 "               original plugin can be found at:
